@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+}
+.style{
+    background: #252525;
+    height: auto;
+    width: 251px;
+    box-sizing: border-box;
+    padding-top: 15px;
+    padding-bottom:15px ;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-top: 30px;
+    margin-left: 200px;
+    border-radius: 50px;
+}
+#yn1{
+    border: 7px solid #ff6e1d;
+    margin-top: 100px;
+    color: #ff6e1d;
+}
+#yn2{
+    border: 7px solid #2bfff1;
+    color: #2bfff1;
+}
+#yn3{
+    border: 7px solid #ff54a6;
+    color: #ff54a6;
+}
+#yn4{
+    border: 7px solid #ff3e3e;
+    color: #ff3e3e;
+}

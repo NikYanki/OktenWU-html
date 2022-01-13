@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+}
+.target{
+    background: #ffaa00;
+    height: 100px;
+    width: 100px;
+    box-sizing: border-box;
+    padding: 45px 45px 45px 45px;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+#AA {
+    box-shadow: #585555 14px  12px 0px 2px;
+}
+#BB{
+    box-shadow: #585555 14px  12px 5px 2px;
+}
+#CC{
+    box-shadow: #585555 14px  15px 5px 2px;
+}
+#DD{
+    box-shadow: #9a9a9a 14px  15px 4px 2px;
+
+}
+#EE{
+    box-shadow: #585555 14px  15px 4px 2px;
+    border-radius: 5px;
+}
+#FF{
+    box-shadow: #9a9a9a 14px  15px 4px 2px;
+    border-radius: 5px;
+}

@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+}
+.c1{
+    background: #808080;
+    height: 250px;
+    width: 520px;
+    margin-top: 80px;
+    margin-left: 15px;
+    box-shadow: #d4b595 -12px -30px 22px 21px;
+}
+.c2{
+    margin-left: 15px;
+    padding-left: 25px;
+    border-left: 4px  solid #fb0101;
+}
