@@ -1,0 +1,38 @@
+body {
+    margin: 7px;
+}
+
+#aaa {
+    text-align: center;
+    background: #892726;
+    color: #f9e9da;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#bbb {
+    background: #c0c0c0;
+    padding: 20px;
+    margin: 0;
+}
+
+#ccc {
+    background: #6395ec;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+}
+
+#ddd {
+    background: #6bba67;
+}
+
+#eee {
+    background: #8886ab;
+    border-radius: 10px;
+}
