@@ -1,0 +1,22 @@
+body{
+    background: cornflowerblue;
+    color: white;
+}
+#container{
+    width: 340px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#one{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#two{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#three{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}

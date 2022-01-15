@@ -1,0 +1,12 @@
+body{
+    background: cornflowerblue;
+}
+#outter{
+    display: flex;
+}
+#inner{
+    display: flex;
+    width: 340px;
+    flex-direction: row;
+    justify-content: space-between;
+}
