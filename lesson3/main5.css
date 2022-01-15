@@ -1,0 +1,38 @@
+body{
+    background: cornflowerblue;
+}
+#AA{
+display: flex;
+flex-wrap: wrap;
+margin: 0;
+justify-content: space-between;
+    width: 740px;
+    justify-content: center;
+}
+.target{
+    background: white;
+    width: 350px;
+    height: 120px;
+    margin: 10px;
+
+}
+h4{
+    text-align: center;
+    margin: 0px;
+    background: #bfbfdb;
+    color: yellow;
+    position: relative;
+    bottom: 20px;
+}
+p{
+    margin-left: 100px;
+    position: relative;
+    bottom: 20px;
+}
+i{
+    position: relative;
+    top:55px;
+    left: 55px;
+    min-height: 1px;
+    margin: 0;
+}
