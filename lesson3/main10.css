@@ -1,0 +1,60 @@
+body{
+
+}
+#outter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 100px;
+}
+.target{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin: 25px;
+    border: 1px #000000 solid;
+    height: 240px;
+    width: 190px;
+}
+.object1{
+    justify-content: center;
+    border: 1px #000000 solid;
+    margin: 0;
+    box-sizing: border-box;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px black solid;
+    position: relative;
+    bottom: 23px;
+    background: white;
+    text-align: center;
+
+
+
+}
+.object2{
+    margin: 0;
+    position: relative;
+    bottom: 40px;
+}
+.object3{
+    margin: 0;
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+}
+.object4{
+    border: 1px #000000 solid;
+    padding: 10px;
+    margin: 0;
+    position: relative;
+    bottom: 20px;
+}
+i{
+    position: relative;
+    top: 10px;
+    color: #bfbfdb;
+    font-size: 30px;
+}

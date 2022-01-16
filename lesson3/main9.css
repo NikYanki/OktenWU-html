@@ -1,0 +1,51 @@
+body{
+    background: mintcream;
+}
+#outter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 100px;
+}
+.target{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background: white;
+    margin: 25px;
+    border: 1px cornflowerblue solid;
+    box-shadow: #6395ec 5px 5px 5px 5px;
+    min-height: 300px;
+    min-width: 190px;
+    max-width: 240px;
+    max-height: 350px;
+}
+.object1{
+    margin-top: 30px;
+
+}
+.object2{
+    color: saddlebrown;
+    margin: 0;
+
+}
+.object3{
+    margin: 20px;
+    text-align: center;
+    color: grey;
+}
+.object4{
+    background: darkseagreen;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+img{
+    max-height: 35px;
+}
+h1{
+    text-align: center;
+    color: saddlebrown;
+    margin-top: 100px;
+}
