@@ -1,0 +1,78 @@
+body{
+    margin: 40px;
+}
+.forOll{
+    border: 5px black solid;
+    margin: 0;
+    box-sizing: border-box;
+}
+.aa{
+    width: 400px;
+    height: 70px;
+}
+.bb{
+    width: 100px;
+    height: 700px;
+    border-top: rgba(255, 255, 255, 0);;
+}
+.cc{
+    width: 300px;
+    height: 150px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.dd{
+    width: 300px;
+    height: 80px;
+}
+.zz{
+    border-top: rgba(255, 255, 255, 0);;
+    border-left: rgba(255, 255, 255, 0);;
+}
+.ee{
+    width: 200px;
+    height: 390px;
+}
+.ff{
+    width: 100px;
+    height: 390px;
+}
+.inner{
+    height: 20px;
+    width: 20px;
+    color: white;
+    background: black;
+    text-align: center;
+    border-radius: 50%;
+}
+.lz{
+    position: relative;
+    left: 150px;
+}
+.down{
+    position: relative;
+    top: 30px;
+}
+.down2{
+    position: relative;
+    top: 70px;
+}
+.rz2{
+    position: relative;
+    right: 12px;
+}
+.lz6{
+    position: relative;
+    left: 88px;
+}
+.down5{
+    position: relative;
+    top: 170px;
+}
+.zdvig{
+    position: relative;
+    left: 250px;
+    bottom: 12px;
+}
