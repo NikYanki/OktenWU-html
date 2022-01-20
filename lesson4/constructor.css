@@ -1,23 +1,18 @@
 body{
-    margin: 0;
     background: #f2f7fc;
     color: #223846;
 }
-
+* {
+    margin: 0;
+}
 .dark_fon{
     background: #1a3548;
 }
 .blue_fon{
     background: #39c8ec;
 }
-.d_gray_fon{
-    background: #aaafb5;
-}
 .l_gray_fon{
     background: #d0d9e2;
-}
-.fiol_fon{
-    background: #6880e5;
 }
 .h_20.w_20{
     width: 20px;
@@ -98,9 +93,6 @@ body{
 }
 .w_t500{
     width:500px ;
-}
-*{
-    margin: 0;
 }
 p{
      font-size: 12px;
