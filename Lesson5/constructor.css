@@ -1,0 +1,27 @@
+.column{
+    width: 180px;
+    height: 500px;
+}
+.roving{
+    width: 720px;
+    height: 250px;
+}
+.rectangle{
+    width: 540px;
+    height: 250px;
+}
+.column05{
+    width: 180px;
+    height: 250px;
+}
+.visual{
+    box-sizing: border-box;
+    background: gold;
+    border: 1px plum solid;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
