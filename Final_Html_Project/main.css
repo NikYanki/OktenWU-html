@@ -26,17 +26,17 @@
 }
 button{
     cursor: pointer;
-}
-.container_bar>div>button{
-    width: 163px;
     height: 54px;
     border-radius: 5px;
-    background: #0b2330;
-    color: #ffffff;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 24px;
+}
+.container_bar>div>button{
+    width: 163px;
+    background: #0b2330;
+    color: #ffffff;
 }
 .container_bar>div:nth-child(3){
     align-items: center;
@@ -83,25 +83,13 @@ button{
 }
 .inner_head>button:nth-child(1){
     width: 163px;
-    height: 54px;
-    border-radius: 5px;
     background: #f9c600;
     color: #000000;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 24px;
 }
 .inner_head>button:nth-child(2){
     width: 156px;
-    height: 54px;
-    border-radius: 5px;
     background: #fefefe;
     color: #000000;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 24px;
 }
 a:hover{
     text-shadow: 4px 4px 4px rgba(255, 202, 113, 0.85);
@@ -189,14 +177,8 @@ button:hover{
 .container4 button{
     margin-top: 70px;
     width: 163px;
-    height: 54px;
-    border-radius: 5px;
     background: #f9c600;
     color: #000000;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 24px;
 }
 .container5{
     margin: auto;
@@ -299,14 +281,8 @@ button:hover{
 }
 .container7_inner>div button{
     width: 144px;
-    height: 54px;
-    border-radius: 5px;
     background: #fefefe;
     color: #000000;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 24px;
 }
 .container7_buttons{
    position: relative;
@@ -320,7 +296,7 @@ button:hover{
     letter-spacing: 1.2px;
     text-transform: uppercase;
     border: 0px;
-    border-radius: 5px;
+    height: 20px;
 }
 .container7_buttons>button:nth-child(3){
     background: #f9c600;
@@ -417,14 +393,8 @@ select{
 }
 .container9_inner button{
     width: 208px;
-    height: 54px;
-    border-radius: 5px;
     background: #f9c600;
     color: #000000;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 24px;
 }
 .container10_outter{
     margin: auto;
@@ -464,14 +434,8 @@ select{
 }
 .container10_1 button{
     width: 144px;
-    height: 54px;
-    border-radius: 5px;
     background: #f2ede7;
     color: #000000;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 24px;
 }
 .container10_2 {
     width: 794px;
@@ -543,14 +507,8 @@ position: absolute;
 }
 .container11 button{
     width: 163px;
-    height: 54px;
-    border-radius: 5px;
     background: #f9c600;
     color: #000000;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 24px;
 }
 .hr{
     width: 1200px;
